@@ -1,3 +1,3 @@
 # aicad
 PCB Design CAD
-was wrote by C#.
+was written by C#.
